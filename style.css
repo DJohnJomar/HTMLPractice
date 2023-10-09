@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+
+/*To specify an id, use a hastag and then the id: #<ID>*/
+
+/* #p1{
+    color: red;
+}
+#p2{
+    color: orange;
+}
+#p3{
+    color: yellow;
+}
+#p4{
+    color: green;
+} */
+#p5{
+    color: blue;
+}
+#p6{
+    color: indigo;
+}
+#p7{
+    color: violet;
+}
+/*You can group by using a class*/
+/*Affects the paragraphs with the class "odd"*/
+.odd{
+    color: white;
+}
+/*Affects the paragraphs with the class "even*/ 
+.even{
+    color:gray;
+}
